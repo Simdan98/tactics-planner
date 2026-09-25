@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(mkdir -p /private/tmp/claude-502/-Users-2532200-Projects-basketball-planner/d5ac56b3-4226-4f6d-82c9-4cb9a1144439/scratchpad/pw)",
+      "Bash(npm init *)",
+      "Bash(npm install *)",
+      "Bash(npx playwright *)",
+      "Bash(npm run *)"
+    ]
+  }
+}
